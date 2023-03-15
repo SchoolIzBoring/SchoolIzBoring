@@ -33,7 +33,7 @@
 <a href="_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SchoolIzBoring_" height="30" width="40" /></a>
 <a href="https://discord.gg/wv6huJAwEv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="44yAbMWbHb" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="_" target="blank"><img src="https://img.shields.io/twitter/follow/3kh0_?logo=twitter&style=for-the-badge" alt="SchoolIzBoring" /></a> <br>
+<p align="left"> <a href="_" target="blank"><img src="https://img.shields.io/twitter/follow/SchoolIzBoring?logo=twitter&style=for-the-badge" alt="SchoolIzBoring" /></a> <br>
 <a href="https://discord.gg/wv6huJAwEv" target="blank"><img align="center" src="https://img.shields.io/discord/971769908205604864?label=Server&logo=discord&style=for-the-badge" alt="discord"></a></p>
 
 
