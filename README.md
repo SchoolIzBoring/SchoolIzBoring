@@ -42,10 +42,4 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=SchoolIzBoring&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="SchoolIzBoring" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=3kh0&theme=dark" alt="SchoolIzBoring" /></p><br>
   </html>
-
-## Other stuff: <br>
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/3kh0/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/SchoolIzBoring/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/3kh0/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-
-<a href="https://octoprofile.vercel.app/user?id=SchoolIzBoring">Octoprofile</a>
 </html>
